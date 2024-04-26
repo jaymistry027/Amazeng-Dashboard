@@ -1,0 +1,130 @@
+.alternateRow {
+  background-color: #d7eceb !important;
+}
+
+.MuiDataGrid-root {
+  overflow: hidden;
+}
+
+.MuiDataGrid-cell {
+  text-align: center;
+  padding: 0;
+}
+
+.extcont {
+  margin-top: 20px;
+  text-align: center;
+  width: 97%;
+}
+
+.cont1 {
+  border-radius: 10px 10px 0px 0px;
+  background: rgb(86, 153, 246);
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  display: block;
+  text-align: left;
+  color: white;
+  height: 74px;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 15px;
+  padding-top: 20px;
+  width: auto;
+}
+
+.cont2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: auto;
+}
+
+body {
+  background: #f7f6f6;
+}
+
+.division1Head
+  {
+      padding:5px;
+      padding-left: 27.5px;
+  }
+  
+  .b1
+  {
+      margin:0;
+      background-color: #D8BDAA;
+      width: 518px;
+      height: 75px;
+      flex-shrink: 0;
+      margin-bottom: 20px;
+      text-align: center;
+      
+  }
+
+.b1
+{
+    margin:0;
+    background-color: #D8BDAA;
+    width: 518px;
+    height: 75px;
+    flex-shrink: 0;
+    margin-bottom: 20px;
+    
+}
+
+.MuiBox-root
+{
+    padding:0;
+    border-radius: 6px ;
+}
+
+.content-container
+{
+    padding-left:25px;
+    padding-top:10px;
+    margin-left: 20px;
+}
+
+.outside-contents
+{
+    margin-left: 20px;
+}
+.title-inside-modal
+{
+    font-weight: bold;
+    font-size: 20px ;
+    margin-bottom:10px;
+}
+
+.button-header
+{
+    color: #696F79;
+    font-size: 16px;
+    margin-left: 25px;
+    font-family: Roboto;
+}
+
+.input,.submit
+{
+    height:55px;
+    width:432px;
+    margin-left:25px;
+    margin-bottom: 25px;
+}
+
+.submit
+{
+    border-radius: 6px;
+    background: #3773ff;
+    color: #fff; 
+    font-size: 25px;
+}
+
+.submit:hover
+{
+    background-color:cyan ;
+    color:black;
+    cursor: pointer;
+}
+

@@ -1,0 +1,28 @@
+.parent
+{
+    background-color: gray;
+}
+
+.title-canvas
+{
+    color: #fff;
+}
+
+#item
+{
+    background: gray;
+    margin-top: 10px;
+}
+
+span
+{
+    text-wrap: wrap;
+}
+
+.link
+{
+    text-decoration: none !important;
+    color: black !important
+}
+
+
